@@ -1,0 +1,7 @@
+{
+    "python.analysis.ignore": [
+        "inputs/"
+    ],
+    "python.formatting.provider": "black",
+    "python.languageServer": "Pylance"
+}
